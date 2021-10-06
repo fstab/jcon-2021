@@ -26,7 +26,7 @@ Slides: [https://docs.google.com/presentation/d/1Z7qw_VxZFd5wdoHfCflTOrgzz_7PWbk
   cd demo/grafana-8.1.5/
   ./bin/grafana-server
   ```
-  Grafana will run on [http://localhost:3000](http://localhost:3000). The default login is `admin` with password `admin`. Use the Web UI to import the demo dashboards from `./dashboards/`.
+  Grafana will run on [http://localhost:3000](http://localhost:3000). The default login is `admin` with password `admin`. Use the Web UI to create the `Prometheus` data source, and import the demo dashboards from `./dashboards/`.
 * Run the client to generate traffic
   ```
   cd client
