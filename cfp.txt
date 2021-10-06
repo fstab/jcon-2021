@@ -1,0 +1,13 @@
+State of the Java Metrics Libraries
+
+---
+
+Java developers have to choose from a variety of libraries when they want to export metrics in their Java applications. There is the MicroProfile standard that emerged out of the popular Dropwizard library. There is Micrometer which was developed as part of the Spring framework but is more and more adapted beyond the Spring ecosystem. And there is the Java client library provided by the Prometheus project itself.
+
+This talk gives an overview of the current state of Metrics libraries in the Java ecosystems. We present the differences, pros, and cons of the current options, and highlight some points that should be considered when deciding which library to choose.
+
+---
+
+Dr. Fabian Stäber is engineering manager and monitoring enthusiast at Instana in Munich. He recently became maintainer of the Java client library of the Prometheus project.
+
+Fabian is excited about Java, distributed systems, operations, and figuring out how things work. His academic research was on decentralized, peer-to-peer-based network architectures.
